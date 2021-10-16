@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.logo {
+    font-family: 'Lobster', cursive;
+    letter-spacing: 3px;
+}
+.categories {
+    z-index: 2;
+}
+.cart-icon {
+    z-index: 1;
+}
+.dropdown-item {
+    border-radius: 20px;
+}
+.mobile-nav {
+    display: none;
+}
+
+@media (max-width: 991.98px) {
+    .mobile-nav {
+        display: block;
+    }
+    .desktop-nav {
+        display: none;
+    }
+}

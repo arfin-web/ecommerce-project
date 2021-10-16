@@ -1,0 +1,10 @@
+.about-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://verloop.io/wp-content/uploads/E-commerce-Gains-From-Customer-Support-Automation-During-Covid-19.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
